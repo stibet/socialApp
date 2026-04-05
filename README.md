@@ -1,6 +1,5 @@
 # 🎉 Dambul
-
-> **"Bu gece nereye çıkıyorsun?"** — Ankara'da eğlence mekanlarına karma grup buluşma uygulaması.
+  — Ankara'da eğlence mekanlarına karma grup buluşma uygulaması.
 
 ---
 
